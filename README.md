@@ -44,8 +44,8 @@ A production-ready, full-stack hotel booking and management SaaS tailored specif
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/nischalsir/HimalStay---Modern-Hospitality-Management-Platform.git]( https://github.com/nischalsir/HimalStay---Modern-Hospitality-Management-Platform.git)
-cd himalstay
+git clone https://github.com/nischalsir/HimalStay---Modern-Hospitality-Management-Platform.git
+cd HimalStay---Modern-Hospitality-Management-Platform
 
 ### 2. Install Dependencies
 ```
